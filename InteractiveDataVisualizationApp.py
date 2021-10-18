@@ -1,8 +1,6 @@
 from pandas.core.frame import DataFrame
 import streamlit as st
 import pandas as pd
-from streamlit_folium import folium_static
-import folium
 import pydeck as pdk
 import plotly.express as px
 from datetime import datetime
